@@ -11,5 +11,5 @@ Just clone the repository for reference and create your own set of commands in t
 If it doesn't work for you the traditional way, try making a MakeFile and executing it.
 
 
-##Author
+## Author
 Hi! I'm Aman Pandita
