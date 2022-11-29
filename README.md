@@ -3,7 +3,7 @@
 ## Overview
 This repository consists of all the projects executed during the spring 2022 term at OSU.
 
-##Installation
+## Installation
 ### For Windows Users:
 Just clone the repository for reference and create your own set of commands in the .cpp file.
 
