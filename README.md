@@ -1,7 +1,7 @@
 # CS575_ParallelProgramming
 
 ## Overview
-This repository consists of all the projects executed during the spring 2022 term at OSU.
+This repository is meant for code referencing purposes and consists of all the projects executed during the spring 2022 term at OSU.
 
 ## Installation
 ### For Windows Users:
