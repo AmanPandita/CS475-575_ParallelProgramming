@@ -1,7 +1,6 @@
 # CS475/575_ParallelProgramming
 
 ## Overview
-This repository is meant for code referencing purposes and consists of all the projects executed during the spring 2022 term at OSU.
 This repository contains the work completed for the CS 475-575: Parallel Programming course at the Oregon State University. The course covers the fundamentals of parallel programming, from basic concepts to more advanced algorithms and techniques.
 
 The repository contains various projects, assignments, and other materials related to the course. All code is written in ``C++ and is organized by topic. The topics covered include:
